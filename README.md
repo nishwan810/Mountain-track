@@ -9,5 +9,5 @@
 
 ## Demo
 
-https://nishwan810.github.io/mountain-track/
+https://mountain-track.vercel.app/
 
